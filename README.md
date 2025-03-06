@@ -5,3 +5,6 @@ HAA ŞİMDİ ÇIKIP BİZ BÖYLE YAPTIK FALAN DERSENİZ main halini de githubda b
 Urlsine snip kurup çekemeyen tayfa sizi.
 
 ingiltereli x telepatia x morvay
+
+
+![](https://komarev.com/ghpvc/?username=t64t&repo=mfa-fixed-sniper&color=green)
